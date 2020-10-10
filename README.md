@@ -2,7 +2,6 @@
 
 
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/1273/badge)](https://bestpractices.coreinfrastructure.org/projects/1273)
-[![Go Report Card](https://goreportcard.com/badge/github.com/jaegertracing/jaeger?style=flat-square)](https://goreportcard.com/report/github.com/jaegertracing/jaeger)
 [![Mentioned in Awesome Go](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/avelino/awesome-go#performance)
 [![OpenTracing-1.0][ot-badge]](https://opentracing.io)
 
@@ -110,8 +109,7 @@ of routing the traffic from Zipkin libraries to the Jaeger backend.
 
 ### Deployment
 
-  * [Kubernetes templates](https://github.com/jaegertracing/jaeger-kubernetes)
-  * [OpenShift templates](https://github.com/jaegertracing/jaeger-openshift)
+  * [Jaeger Operator for Kubernetes](https://github.com/jaegertracing/jaeger-operator#getting-started)
 
 ### Components
 
